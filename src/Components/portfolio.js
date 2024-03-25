@@ -104,10 +104,7 @@ function Portfolio() {
         <div className="max-width">
           <h2 className="title">About Me</h2>
           <div className="about-content">
-            <div className="column left">
-              <img src="DESTINY STUDIOS.gif" alt="" />
-            </div>
-            <div className="column right">
+            <div className="column right" style={{width: '100%'}}>
               <div className="text">Welcome to my portfolio! I'm  Rishikesh Mane</div>
               <p>a passionate MERN Stack Developer with proficiency in a range of cutting-edge technologies and frameworks. With expertise in ReactJS, Tailwind, Axios, JavaScript, CSS, App Routing, and API Integration, I bring a comprehensive skill set to the table to craft dynamic and responsive web applications.</p>
               <br />
